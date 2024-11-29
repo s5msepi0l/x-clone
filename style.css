@@ -15,7 +15,7 @@ body {
 
 .Text {
     display: inline;
-    margin-left: 100px;
+    margin-left: 140px;
     margin-right: 35px;
     color: white;
     font-family: sans-serif;
@@ -35,9 +35,22 @@ body {
 
 }
 
+.btn1 {
+
+
+    margin-left: 450px;
+    background-color: rgba(29, 155, 240);
+    border-radius: 200px;
+    margin-bottom: 20px;
+    border: none;
+    color: white;
+    width: 80px;
+    height: 40px;
+}
+
 .middle {
     width: 100%;
-
+    margin-right: 80px;
     border: 1px solid grey;
 }
 
@@ -51,11 +64,24 @@ body {
 
 .searchbar {
 
+    margin-right: 200px;
 
     background: white;
     border-radius: 50px;
     width: 200px;
 
+
+}
+
+.search {
+
+    width: 320px;
+    border-radius: 100px;
+    background-color: rgb(61, 61, 61);
+    color: white;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 40px;
 }
 
 
@@ -84,6 +110,51 @@ li:hover {
     width: 50%;
 }
 
+.Premium {
+    border: 1px solid grey;
+    margin-top: 100px;
+    width: 90%;
+    height: 180px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    border-radius: 20px;
+}
+
+
+
+.h1 {
+    margin-left: 20px;
+    font-size: 25px;
+}
+
+.Premium p {
+    margin-left: 10px;
+}
+
+.Premium h1 {
+    margin-left: 10px;
+}
+
+.Subscribe {
+    height: 38px;
+    width: 100px;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: rgba(29, 155, 240);
+    color: white;
+    border: none;
+    border-radius: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.Subscribe:hover {
+
+    background-color: rgb(178, 218, 218);
+
+}
+
 .sidebar {
 
     max-width: 350px;
@@ -103,10 +174,7 @@ li:hover {
     font-size: larger;
 }
 
-p:hover {
-    color: #7aefd8;
-    width: 50px;
-}
+
 
 .button {
     width: 200px;
@@ -123,4 +191,123 @@ p:hover {
 
 .button:hover {
     background-color: #7aefd8;
+}
+
+
+.Who {
+    border: 1px solid grey;
+    margin-top: 100px;
+    width: 90%;
+    height: 370px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    border-radius: 20px;
+}
+
+
+.Text1 {
+    color: rgb(126, 126, 126);
+    font-size: small;
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.Text2 {
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+
+
+.Text3 {
+    color: rgb(126, 126, 126);
+    font-size: small;
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Text4 {
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Text5 {
+    color: rgb(126, 126, 126);
+    font-size: small;
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.Text6 {
+
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+}
+
+.Text7 {
+    color: rgb(126, 126, 126);
+    font-size: small;
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.Text8 {
+
+
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Text9 {
+    color: rgba(29, 155, 240);
+    margin-left: 20px;
+    margin-top: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Text9:hover {
+    text-decoration: underline;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.send {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: white;
+    margin-left: 50px;
+    color: rgb(126, 126, 126);
+    ;
+}
+
+.Hej1 {
+    font-size: 30px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 50px;
+    margin-top: 25px;
+
+}
+
+.Picture {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 50px;
+    font-size: 15px;
+}
+
+.Hej2 {
+    margin-left: 50px;
+    margin-top: 50px;
+    border: 1px solid grey;
+    border-radius: 20px;
+
 }
