@@ -1,0 +1,29 @@
+[
+    {
+        "username": "Jacob",
+        "password": "Password123",
+
+        "following": [
+            "Jessica",
+            "Jesse"
+        ]
+    },
+
+    {
+        "username": "Jessica",
+        "password": "Jessie321",
+
+        "following": [
+            
+        ]
+    },
+
+    {
+        "username": "Jesse",
+        "password": "pnkman321",
+
+        "following": [
+            
+        ]
+    }
+]
